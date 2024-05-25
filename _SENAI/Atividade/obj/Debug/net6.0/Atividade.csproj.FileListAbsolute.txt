@@ -1,0 +1,29 @@
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\bin\Debug\net6.0\Atividade.exe
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\bin\Debug\net6.0\Atividade.deps.json
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\bin\Debug\net6.0\Atividade.dll
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\bin\Debug\net6.0\Atividade.pdb
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\obj\Debug\net6.0\Atividade.dll
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\obj\Debug\net6.0\refint\Atividade.dll
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\obj\Debug\net6.0\Atividade.pdb
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+C:\Users\Ingrid Freire\Desktop\_SENAI\Atividade\obj\Debug\net6.0\ref\Atividade.dll
+c:\Users\Power\Documents\senai\_SENAI\Atividade\bin\Debug\net6.0\Atividade.exe
+c:\Users\Power\Documents\senai\_SENAI\Atividade\bin\Debug\net6.0\Atividade.deps.json
+c:\Users\Power\Documents\senai\_SENAI\Atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+c:\Users\Power\Documents\senai\_SENAI\Atividade\bin\Debug\net6.0\Atividade.dll
+c:\Users\Power\Documents\senai\_SENAI\Atividade\bin\Debug\net6.0\Atividade.pdb
+c:\Users\Power\Documents\senai\_SENAI\Atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Power\Documents\senai\_SENAI\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+c:\Users\Power\Documents\senai\_SENAI\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+c:\Users\Power\Documents\senai\_SENAI\Atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+c:\Users\Power\Documents\senai\_SENAI\Atividade\obj\Debug\net6.0\Atividade.dll
+c:\Users\Power\Documents\senai\_SENAI\Atividade\obj\Debug\net6.0\refint\Atividade.dll
+c:\Users\Power\Documents\senai\_SENAI\Atividade\obj\Debug\net6.0\Atividade.pdb
+c:\Users\Power\Documents\senai\_SENAI\Atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+c:\Users\Power\Documents\senai\_SENAI\Atividade\obj\Debug\net6.0\ref\Atividade.dll
